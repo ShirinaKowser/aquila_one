@@ -1,10 +1,11 @@
 <?php
+
 /**
  * Main Template File
  *@package aquila
  */
-get_header( );
+get_header();
 ?>
 
- <content>Content</content>
- <?php get_footer();
+<content>Content</content>
+<?php get_footer();
